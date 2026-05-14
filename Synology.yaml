@@ -3,22 +3,22 @@
 # TOTAL: 19
 
 payload:
-  - 'd2f0395ykn6hxb.cloudfront.net'
-  - '+.diskstation.me'
-  - '+.dscloud.biz'
-  - '+.dscloud.me'
-  - '+.dscloud.mobi'
-  - '+.dsmunas.com'
-  - '+.dsmunas.net'
-  - '+.dsmunas.org'
-  - '+.familyds.com'
-  - '+.familyds.net'
-  - '+.familyds.org'
-  - '+.i234.me'
-  - '+.myds.com'
-  - '+.quickconnect.to'
-  - '+.synodns.com'
-  - '+.synology.cn'
-  - '+.synology.com'
-  - '+.synology.me'
+  - DOMAIN,d2f0395ykn6hxb.cloudfront.net
+  - DOMAIN-SUFFIX,diskstation.me
+  - DOMAIN,dscloud.biz
+  - DOMAIN,dscloud.me
+  - DOMAIN,dscloud.mobi
+  - DOMAIN,dsmunas.com
+  - DOMAIN,dsmunas.net
+  - DOMAIN,dsmunas.org
+  - DOMAIN,familyds.com
+  - DOMAIN,familyds.net
+  - DOMAIN,familyds.org
+  - DOMAIN,i234.me
+  - DOMAIN,myds.com
+  - DOMAIN,quickconnect.to
+  - DOMAIN,synodns.com
+  - DOMAIN,synology.cn
+  - DOMAIN,synology.com
+  - DOMAIN,synology.me
   - '*synology*'
