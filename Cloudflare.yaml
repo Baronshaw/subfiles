@@ -3,8 +3,8 @@
 # TOTAL: 4
 
 payload:
-  - '+.v2.argotunnel.com'
-  - '+.cloudflare.com'
+  - DOMAIN-SUFFIX,v2.argotunnel.com
+  - DOMAIN-SUFFIX,cloudflare.com
   - IP-CIDR,198.41.192.0/24,no-resolve
   - IP-CIDR,198.41.200.0/24,no-resolve
 
