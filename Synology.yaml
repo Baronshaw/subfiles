@@ -21,4 +21,4 @@ payload:
   - DOMAIN,synology.cn
   - DOMAIN,synology.com
   - DOMAIN,synology.me
-  - '*synology*'
+  - DOMAIN-KEYWORD,synology
