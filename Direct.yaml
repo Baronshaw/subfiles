@@ -3,17 +3,17 @@
 # TOTAL: 14
 
 payload:
-  - 'app.adjust.com'
-  - '+.googletraveladservices.com'
-  - 'livew.l.qq.com'
-  - 'vd.l.qq.com'
-  - 'speedtest.net'
-  - '+.tjupt.org'
-  - '+.0ii0.eu.org'
-  - 'analytics.strava.com'
-  - 'msg.umeng.com'
-  - 'msg.umengcloud.com'
-  - '+.amoe.cc'
+  - DOMAIN,app.adjust.com
+  - DOMAIN-SUFFIX,googletraveladservices.com
+  - DOMAIN,livew.l.qq.com
+  - DOMAIN,vd.l.qq.com
+  - DOMAIN,speedtest.net
+  - DOMAIN-SUFFIX,tjupt.org
+  - DOMAIN-SUFFIX,0ii0.eu.org
+  - DOMAIN,analytics.strava.com
+  - DOMAIN,msg.umeng.com
+  - DOMAIN,msg.umengcloud.com
+  - DOMAIN-SUFFIX,amoe.cc
   - IP-CIDR,172.64.202.11/32
   - IP-CIDR,58.177.36.8/32
   - IP-CIDR,45.137.180.230/32
