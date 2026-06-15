@@ -22,3 +22,4 @@ payload:
   - DOMAIN,synology.com
   - DOMAIN,synology.me
   - DOMAIN-KEYWORD,synology
+  - SRC-IP-CIDR,192.168.1.127/32
